@@ -16,3 +16,11 @@
 
 **Link(s) to work**
 1. [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+
+### Day 3: October 13, 2020
+
+**Today's Progress**: Solved a LeetCode problem to Sort a LinkedList. Added new Graph traversal problems, into my owm repository.
+
+**Link(s) to work**
+1. [148. Sort List](https://leetcode.com/problems/sort-list/)
+2. [Algorithm Repo](https://github.com/amitsamanta2307/algorithms)
