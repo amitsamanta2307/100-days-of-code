@@ -24,3 +24,10 @@
 **Link(s) to work**
 1. [148. Sort List](https://leetcode.com/problems/sort-list/)
 2. [Algorithm Repo](https://github.com/amitsamanta2307/algorithms)
+
+### Day 4: October 14, 2020
+
+**Today's Progress**: Solved a LeetCode problem House Robber II.
+
+**Link(s) to work**
+1. [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
