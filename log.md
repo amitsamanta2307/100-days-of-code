@@ -31,3 +31,10 @@
 
 **Link(s) to work**
 1. [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
+
+### Day 5: October 15, 2020
+
+**Today's Progress**: Solved a LeetCode problem Rotate Array
+
+**Link(s) to work**
+1. [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
