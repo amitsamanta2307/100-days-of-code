@@ -38,3 +38,10 @@
 
 **Link(s) to work**
 1. [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+### Day 6: October 16, 2020
+
+**Today's Progress**: Solved a LeetCode problem Search a 2D Matrix
+
+**Link(s) to work**
+1. [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
