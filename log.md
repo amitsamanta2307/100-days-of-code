@@ -45,3 +45,10 @@
 
 **Link(s) to work**
 1. [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+### Day 7: October 17, 2020
+
+**Today's Progress**: Solved a LeetCode problem Repeated DNA Sequences
+
+**Link(s) to work**
+1. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
