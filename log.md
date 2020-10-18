@@ -52,3 +52,10 @@
 
 **Link(s) to work**
 1. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+
+### Day 8: October 18, 2020
+
+**Today's Progress**: Solved a LeetCode problem Best Time to Buy and Sell Stock IV
+
+**Link(s) to work**
+1. [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
