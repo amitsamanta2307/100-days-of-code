@@ -59,3 +59,10 @@
 
 **Link(s) to work**
 1. [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
+
+### Day 9: October 19, 2020
+
+**Today's Progress**: Solved a LeetCode problem Minimum Domino Rotations For Equal Row
+
+**Link(s) to work**
+1. [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
