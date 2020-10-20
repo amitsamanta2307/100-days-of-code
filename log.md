@@ -66,3 +66,10 @@
 
 **Link(s) to work**
 1. [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+
+### Day 10: October 20, 2020
+
+**Today's Progress**: Solved a LeetCode problem Clone Graph
+
+**Link(s) to work**
+1. [1007. Clone Graph](https://leetcode.com/problems/clone-graph/)
