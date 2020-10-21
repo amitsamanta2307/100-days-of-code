@@ -73,3 +73,10 @@
 
 **Link(s) to work**
 1. [1007. Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+### Day 11: October 21, 2020
+
+**Today's Progress**: Solved a LeetCode problem Asteroid Collision. Created the BST using Java and C#
+
+**Link(s) to work**
+1. [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
