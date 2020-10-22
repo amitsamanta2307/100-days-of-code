@@ -80,3 +80,10 @@
 
 **Link(s) to work**
 1. [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+### Day 12: October 22, 2020
+
+**Today's Progress**: Solved a LeetCode problem Minimum Depth of Binary Tree.
+
+**Link(s) to work**
+1. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
