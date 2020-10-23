@@ -87,3 +87,10 @@
 
 **Link(s) to work**
 1. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+### Day 13: October 23, 2020
+
+**Today's Progress**: Solved a LeetCode problem 132 Pattern.
+
+**Link(s) to work**
+1. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
