@@ -94,3 +94,10 @@
 
 **Link(s) to work**
 1. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+### Day 14: October 24, 2020
+
+**Today's Progress**: Solved a LeetCode problem Bag of Tokens.
+
+**Link(s) to work**
+1. [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
