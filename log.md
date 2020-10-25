@@ -101,3 +101,10 @@
 
 **Link(s) to work**
 1. [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
+### Day 15: October 25, 2020
+
+**Today's Progress**: Solved a LeetCode problem Stone Game IV.
+
+**Link(s) to work**
+1. [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
