@@ -108,3 +108,10 @@
 
 **Link(s) to work**
 1. [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+
+### Day 16: October 26, 2020
+
+**Today's Progress**: Solved a LeetCode problem Champagne Tower.
+
+**Link(s) to work**
+1. [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
