@@ -115,3 +115,10 @@
 
 **Link(s) to work**
 1. [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+
+### Day 17: October 27, 2020
+
+**Today's Progress**: Solved a LeetCode problem Linked List Cycle.
+
+**Link(s) to work**
+1. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
