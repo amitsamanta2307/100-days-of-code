@@ -122,3 +122,10 @@
 
 **Link(s) to work**
 1. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+### Day 18: October 28, 2020
+
+**Today's Progress**: Solved a LeetCode problem Summary Ranges.
+
+**Link(s) to work**
+1. [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
