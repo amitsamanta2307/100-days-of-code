@@ -129,3 +129,10 @@
 
 **Link(s) to work**
 1. [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+
+### Day 18: October 28, 2020
+
+**Today's Progress**: Solved a LeetCode problem Maximize Distance to Closest Person.
+
+**Link(s) to work**
+1. [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
