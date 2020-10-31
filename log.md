@@ -136,3 +136,17 @@
 
 **Link(s) to work**
 1. [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+
+### Day 20: October 30, 2020
+
+**Today's Progress**: Solved a LeetCode problem Number of Longest Increasing Subsequence.
+
+**Link(s) to work**
+1. [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+## Day 21: October 31, 2020
+
+**Today's Progress**: Solved a LeetCode problem Recover Binary Search Tree.
+
+**Link(s) to work**
+1. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
