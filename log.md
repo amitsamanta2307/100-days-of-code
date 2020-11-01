@@ -144,9 +144,16 @@
 **Link(s) to work**
 1. [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 
-## Day 21: October 31, 2020
+### Day 21: October 31, 2020
 
 **Today's Progress**: Solved a LeetCode problem Recover Binary Search Tree.
 
 **Link(s) to work**
 1. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+
+# Day 22: November 01, 2020
+
+**Today's Progress**: Solved a LeetCode problem Convert Binary Number in a Linked List to Integer.
+
+**Link(s) to work**
+1. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
