@@ -151,9 +151,16 @@
 **Link(s) to work**
 1. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 
-# Day 22: November 01, 2020
+### Day 22: November 01, 2020
 
 **Today's Progress**: Solved a LeetCode problem Convert Binary Number in a Linked List to Integer.
 
 **Link(s) to work**
 1. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
+### Day 23: November 02, 2020
+
+**Today's Progress**: Solved a LeetCode problem Insertion Sort List.
+
+**Link(s) to work**
+1. [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
