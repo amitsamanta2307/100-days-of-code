@@ -164,3 +164,10 @@
 
 **Link(s) to work**
 1. [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+
+### Day 24: November 03, 2020
+
+**Today's Progress**: Solved a LeetCode problem Insertion Sort List.
+
+**Link(s) to work**
+1. [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
