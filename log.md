@@ -171,3 +171,10 @@
 
 **Link(s) to work**
 1. [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+
+### Day 25: November 04, 2020
+
+**Today's Progress**: Solved a LeetCode problem Minimum Height Trees.
+
+**Link(s) to work**
+1. [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
