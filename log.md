@@ -178,3 +178,10 @@
 
 **Link(s) to work**
 1. [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+
+### Day 26: November 05, 2020
+
+**Today's Progress**: Solved a LeetCode problem Minimum Cost to Move Chips to The Same Position.
+
+**Link(s) to work**
+1. [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
