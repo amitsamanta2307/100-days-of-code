@@ -185,3 +185,10 @@
 
 **Link(s) to work**
 1. [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+
+### Day 27: November 06, 2020
+
+**Today's Progress**: Solved a LeetCode problem Find the Smallest Divisor Given a Threshold.
+
+**Link(s) to work**
+1. [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
