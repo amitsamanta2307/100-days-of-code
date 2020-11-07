@@ -192,3 +192,10 @@
 
 **Link(s) to work**
 1. [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+
+### Day 28: November 07, 2020
+
+**Today's Progress**: Solved a LeetCode problem Add Two Numbers II.
+
+**Link(s) to work**
+1. [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
