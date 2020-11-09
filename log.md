@@ -206,3 +206,10 @@
 
 **Link(s) to work**
 1. [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
+
+### Day 30: November 09, 2020
+
+**Today's Progress**: Solved a LeetCode problem Maximum Difference Between Node and Ancestor.
+
+**Link(s) to work**
+1. [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
