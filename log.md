@@ -213,3 +213,10 @@
 
 **Link(s) to work**
 1. [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+
+### Day 31: November 10, 2020
+
+**Today's Progress**: Solved a LeetCode problem Flipping an Image.
+
+**Link(s) to work**
+1. [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
