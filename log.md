@@ -220,3 +220,10 @@
 
 **Link(s) to work**
 1. [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+
+### Day 32: November 11, 2020
+
+**Today's Progress**: Solved a LeetCode problem Valid Square.
+
+**Link(s) to work**
+1. [593. Valid Square](https://leetcode.com/problems/valid-square/)
