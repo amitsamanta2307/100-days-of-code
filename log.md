@@ -227,3 +227,10 @@
 
 **Link(s) to work**
 1. [593. Valid Square](https://leetcode.com/problems/valid-square/)
+
+### Day 33: November 12, 2020
+
+**Today's Progress**: Solved a LeetCode problem Permutations II.
+
+**Link(s) to work**
+1. [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
