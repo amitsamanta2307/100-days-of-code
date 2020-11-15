@@ -234,3 +234,18 @@
 
 **Link(s) to work**
 1. [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+
+### Day 34: November 14, 2020
+
+**Today's Progress**: Solved a LeetCode problems Populating Next Right Pointers in Each Node and Poor Pigs.
+
+**Link(s) to work**
+1. [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+2. [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+
+### Day 35: November 15, 2020
+
+**Today's Progress**: Solved a LeetCode problem Range Sum of BST.
+
+**Link(s) to work**
+1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
