@@ -249,3 +249,10 @@
 
 **Link(s) to work**
 1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+
+### Day 36: November 16, 2020
+
+**Today's Progress**: Solved a LeetCode problem Longest Mountain in Array.
+
+**Link(s) to work**
+1. [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
