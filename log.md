@@ -256,3 +256,10 @@
 
 **Link(s) to work**
 1. [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+
+### Day 37: November 17, 2020
+
+**Today's Progress**: Solved a LeetCode problem Mirror Reflection.
+
+**Link(s) to work**
+1. [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
