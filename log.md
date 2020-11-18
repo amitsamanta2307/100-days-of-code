@@ -263,3 +263,10 @@
 
 **Link(s) to work**
 1. [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+
+### Day 38: November 18, 2020
+
+**Today's Progress**: Solved a LeetCode problem Merge Intervals.
+
+**Link(s) to work**
+1. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
