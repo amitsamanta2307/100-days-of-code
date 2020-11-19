@@ -270,3 +270,10 @@
 
 **Link(s) to work**
 1. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+### Day 39: November 19, 2020
+
+**Today's Progress**: Solved a LeetCode problem Decode String.
+
+**Link(s) to work**
+1. [394. Decode String](https://leetcode.com/problems/decode-string/)
