@@ -277,3 +277,10 @@
 
 **Link(s) to work**
 1. [394. Decode String](https://leetcode.com/problems/decode-string/)
+
+### Day 40: November 20, 2020
+
+**Today's Progress**: Solved a LeetCode problem Search in Rotated Sorted Array II.
+
+**Link(s) to work**
+1. [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
