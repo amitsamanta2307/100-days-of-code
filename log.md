@@ -284,3 +284,10 @@
 
 **Link(s) to work**
 1. [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
+### Day 41: November 21, 2020
+
+**Today's Progress**: Solved a LeetCode problem Search in Numbers At Most N Given Digit Set.
+
+**Link(s) to work**
+1. [902. Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/)
