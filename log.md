@@ -291,3 +291,10 @@
 
 **Link(s) to work**
 1. [902. Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/)
+
+### Day 42: November 22, 2020
+
+**Today's Progress**: Solved a LeetCode problem Unique Morse Code Words.
+
+**Link(s) to work**
+1. [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
