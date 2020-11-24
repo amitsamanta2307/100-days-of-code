@@ -305,3 +305,10 @@
 
 **Link(s) to work**
 1. [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)
+
+### Day 44: November 24, 2020
+
+**Today's Progress**: Solved a LeetCode problem Basic Calculator II.
+
+**Link(s) to work**
+1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
