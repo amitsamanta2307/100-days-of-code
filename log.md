@@ -312,3 +312,10 @@
 
 **Link(s) to work**
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+
+### Day 45: November 25, 2020
+
+**Today's Progress**: Solved a LeetCode problem Smallest Integer Divisible by K.
+
+**Link(s) to work**
+1. [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
