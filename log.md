@@ -319,3 +319,10 @@
 
 **Link(s) to work**
 1. [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
+
+### Day 46: December 07, 2020
+
+**Today's Progress**: Solved a LeetCode problem Spiral Matrix II.
+
+**Link(s) to work**
+1. [49. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
