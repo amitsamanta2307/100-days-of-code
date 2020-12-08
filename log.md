@@ -326,3 +326,10 @@
 
 **Link(s) to work**
 1. [49. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+
+### Day 47: December 08, 2020
+
+**Today's Progress**: Solved a LeetCode problem Pairs of Songs With Total Durations Divisible by 60.
+
+**Link(s) to work**
+1. [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
