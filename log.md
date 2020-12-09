@@ -333,3 +333,7 @@
 
 **Link(s) to work**
 1. [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+
+### Day 48: December 09, 2020
+
+**Today's Progress**: Solved the 15 javascript problems in the FreeCodeCamp.org challenges
