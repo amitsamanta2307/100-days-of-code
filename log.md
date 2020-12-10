@@ -337,3 +337,7 @@
 ### Day 48: December 09, 2020
 
 **Today's Progress**: Solved the 15 javascript problems in the FreeCodeCamp.org challenges
+
+### Day 49: December 09, 2020
+
+**Today's Progress**: Adding the checkout component to my React Application. Learning about the React Router components.
