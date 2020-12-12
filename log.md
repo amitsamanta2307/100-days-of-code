@@ -338,6 +338,10 @@
 
 **Today's Progress**: Solved the 15 javascript problems in the FreeCodeCamp.org challenges
 
-### Day 49: December 09, 2020
+### Day 49: December 10, 2020
 
 **Today's Progress**: Adding the checkout component to my React Application. Learning about the React Router components.
+
+### Day 50: December 12, 2020
+
+**Today's Progress**: Completed the Router feature in the React Burger app. Adding the Form elements and validations for the React Burger app.
