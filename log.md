@@ -345,3 +345,7 @@
 ### Day 50: December 12, 2020
 
 **Today's Progress**: Completed the Router feature in the React Burger app. Adding the Form elements and validations for the React Burger app.
+
+### Day 51: December 13, 2020
+
+**Today's Progress**: Add the Form Elements and Validations to my React App.
