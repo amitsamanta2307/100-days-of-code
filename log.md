@@ -349,3 +349,11 @@
 ### Day 51: December 13, 2020
 
 **Today's Progress**: Add the Form Elements and Validations to my React App.
+
+### Day 52: December 22, 2020
+
+**Today's Progress**: Add the Redux to my React App. Convetered the state with Redux state. Solved the HTML5 and Javascript challenge from freecodecamp.org
+
+### Day 53: December 23, 2020
+
+**Today's Progress**: Replacing the local state with the Redux state, Completed the 305the lesson in the udemy course
