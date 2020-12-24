@@ -357,3 +357,9 @@
 ### Day 53: December 23, 2020
 
 **Today's Progress**: Replacing the local state with the Redux state, Completed the 305the lesson in the udemy course
+
+### Day 54: December 24, 2020
+
+**Today's Progress**:
+1. Studied the new Readux Toolkit structure.
+2. Cloned the eShopOnWeb application, studied the structure and resolved the issues in the code.
