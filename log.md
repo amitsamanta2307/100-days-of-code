@@ -368,3 +368,9 @@
 
 **Today's Progress**:
 1. Completed the coversion process of the using the Redux state for my Burger app, from the udemy react course.
+
+### Day 56: December 27, 2020
+
+**Today's Progress**:
+1. Completed the HTML challenegs in the FreeCode.org.
+2. Adding the authentication logic to the burger app.
