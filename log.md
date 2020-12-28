@@ -374,3 +374,8 @@
 **Today's Progress**:
 1. Completed the HTML challenegs in the FreeCode.org.
 2. Adding the authentication logic to the burger app.
+
+### Day 57: December 28, 2020
+
+**Today's Progress**:
+1. Working on the Project o the freecode.org website
