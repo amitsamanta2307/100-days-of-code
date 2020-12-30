@@ -379,3 +379,11 @@
 
 **Today's Progress**:
 1. Working on the Project o the freecode.org website
+
+### Day 58: December 30, 2020
+
+**Today's Progress**:
+1. Resolve the bugs from the React Burger App.
+2. Refractor the React Burger App code.
+3. Create the Unit test for the React Burger App.
+4. Deployed the React Burger App on the Firebase
