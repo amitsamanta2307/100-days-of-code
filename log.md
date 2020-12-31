@@ -387,3 +387,8 @@
 2. Refractor the React Burger App code.
 3. Create the Unit test for the React Burger App.
 4. Deployed the React Burger App on the Firebase
+
+### Day 59: December 31, 2020
+
+**Today's Progress**:
+1. Working on the WebPack module in the Udemy React course.
