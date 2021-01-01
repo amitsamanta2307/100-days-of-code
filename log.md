@@ -392,3 +392,8 @@
 
 **Today's Progress**:
 1. Working on the WebPack module in the Udemy React course.
+
+### Day 60: January 01, 2021
+
+**Today's Progress**:
+1. Completed the Webpack module in the Udemy ReactJs course.
