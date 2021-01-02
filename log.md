@@ -397,3 +397,12 @@
 
 **Today's Progress**:
 1. Completed the Webpack module in the Udemy ReactJs course.
+
+### Day 61: January 02, 2021
+
+**Today's Progress**:
+1. Completed the Animations and NextJs module in the Udemy ReactJs course.
+2. Solved the LeetCode Daily January Challenge 2021, Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+
+**Link(s) to work**
+1. [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3590/)
