@@ -406,3 +406,13 @@
 
 **Link(s) to work**
 1. [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3590/)
+
+### Day 62: January 03, 2021
+
+**Today's Progress**:
+1. Solved the Javascript Problem from the freecodecamp.org website.
+2. Solved the LeetCode Daily January Challenge 2021, Beautiful Arrangement.
+3. Working on the Redux Saga videos in Udemy ReactJS course
+
+**Link(s) to work**
+1. [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
