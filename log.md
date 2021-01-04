@@ -416,3 +416,12 @@
 
 **Link(s) to work**
 1. [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+
+### Day 63: January 04, 2021
+
+**Today's Progress**:
+1. Working on the React Hooks module in the Udemy React Course. Created a new React App implementing the React Hooks concepts.
+2. Solved the LeetCode Daily January Challenge 2021, merging the 2 sorted list.
+
+**Link(s) to work**
+1. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
