@@ -425,3 +425,12 @@
 
 **Link(s) to work**
 1. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+### Day 64: January 05, 2021
+
+**Today's Progress**:
+1. Continued on the React Hooks module in the Udemy React Course. Working on converting my Course React burger app from class based components to functional components with new React Hooks.
+2. Solved the LeetCode Daily January Challenge 2021, Remove Duplicates from Sorted List II.
+
+**Link(s) to work**
+1. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
