@@ -434,3 +434,12 @@
 
 **Link(s) to work**
 1. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+### Day 65: January 06, 2021
+
+**Today's Progress**:
+1. Converted the Class components to functional component with Hooks in my Udemy Course Burger app.
+2. Solved the LeetCode Daily January Challenge 2021, Kth Missing Positive Number.
+
+**Link(s) to work**
+1. [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
