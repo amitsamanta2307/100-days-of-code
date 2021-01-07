@@ -443,3 +443,12 @@
 
 **Link(s) to work**
 1. [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+### Day 66: January 07, 2021
+
+**Today's Progress**:
+1. Completed the Udemy Course on React Completed tutorial by Max.
+2. Solved the LeetCode Daily January Challenge 2021, Longest Substring Without Repeating Characters.
+
+**Link(s) to work**
+1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
