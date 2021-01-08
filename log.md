@@ -452,3 +452,11 @@
 
 **Link(s) to work**
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+### Day 67: January 08, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Check If Two String Arrays are Equivalent.
+
+**Link(s) to work**
+1. [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
