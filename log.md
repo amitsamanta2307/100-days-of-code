@@ -460,3 +460,12 @@
 
 **Link(s) to work**
 1. [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+
+### Day 68: January 09, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Word Ladder Problem.
+2. Started the with the Machine Learning course in Udemy. Set the Anaconda for the solving the ML problems in the course.
+
+**Link(s) to work**
+1. [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
