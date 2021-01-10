@@ -469,3 +469,12 @@
 
 **Link(s) to work**
 1. [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+### Day 69: January 10, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Create Sorted Array through Instructions.
+2. Working on the Udemy ML Courses.
+
+**Link(s) to work**
+1. [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
