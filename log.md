@@ -478,3 +478,12 @@
 
 **Link(s) to work**
 1. [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+
+### Day 70: January 11, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Merge Sorted Array.
+2. Completed the Section-3 course matherials for the ML.
+
+**Link(s) to work**
+1. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
