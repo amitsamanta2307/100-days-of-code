@@ -487,3 +487,12 @@
 
 **Link(s) to work**
 1. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+### Day 71: January 12, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Add Two Numbers.
+2. Completed the Section-4, in the udemy course for machine learning.
+
+**Link(s) to work**
+1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
