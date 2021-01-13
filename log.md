@@ -496,3 +496,12 @@
 
 **Link(s) to work**
 1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+### Day 72: January 13, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Boats to Save People.
+2. Udemy Machine Learning course working on the Multiple Regression.
+
+**Link(s) to work**
+1. [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
