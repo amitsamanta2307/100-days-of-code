@@ -505,3 +505,12 @@
 
 **Link(s) to work**
 1. [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+
+### Day 73: January 14, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Minimum Operations to Reduce X to Zero.
+2. Udemy Machine Learning course working on the SVR Intuition.
+
+**Link(s) to work**
+1. [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
