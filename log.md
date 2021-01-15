@@ -514,3 +514,12 @@
 
 **Link(s) to work**
 1. [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+### Day 74: January 15, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Get Maximum in Generated Array.
+2. Udemy Machine Learning course practised the problems on Linear Regression, Multiple Linear Regression SVR etc.
+
+**Link(s) to work**
+1. [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
