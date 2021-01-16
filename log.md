@@ -523,3 +523,12 @@
 
 **Link(s) to work**
 1. [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
+
+### Day 75: January 16, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Kth Largest Element in an Array.
+2. Udemy Machine Learning course practised the problems on Linear Regression, Multiple Linear Regression SVR etc.
+
+**Link(s) to work**
+1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
