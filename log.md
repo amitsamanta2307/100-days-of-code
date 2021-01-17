@@ -532,3 +532,12 @@
 
 **Link(s) to work**
 1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+### Day 76: January 17, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Count Sorted Vowel Strings.
+2. Udemy course on Machine Learning, Decision Tree Regression and Forest Group Regression models
+
+**Link(s) to work**
+1. [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
