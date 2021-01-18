@@ -541,3 +541,13 @@
 
 **Link(s) to work**
 1. [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+
+### Day 77: January 18, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Max Number of K-Sum Pairs.
+2. Udemy course on Machine Learning, Solving the problems on the Forest Group and Decision Tree.
+3. Practised the Prblems on the Design Patterns in C#
+
+**Link(s) to work**
+1. [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
