@@ -551,3 +551,13 @@
 
 **Link(s) to work**
 1. [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+
+### Day 78: January 19, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Longest Palindromic Substring.
+2. Udemy course on Machine Learning, which regression model to use based on the accuracy.
+3. Practised the Problems on the Design Patterns in C#, All the creational design patterns
+
+**Link(s) to work**
+1. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
