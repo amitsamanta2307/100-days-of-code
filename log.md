@@ -561,3 +561,21 @@
 
 **Link(s) to work**
 1. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
+## Day 79: January 20, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Valid Parentheses.
+2. Udemy course on Machine Learning, Classification models.
+
+**Link(s) to work**
+1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+### Day 80: January 21, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Find the Most Competitive Subsequence.
+2. Udemy course on Machine Learning, Logistic Regression and K-Nearest Neighbours.
+
+**Link(s) to work**
+1. [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/longest-palindromic-substring/)
