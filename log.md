@@ -579,3 +579,12 @@
 
 **Link(s) to work**
 1. [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/longest-palindromic-substring/)
+
+### Day 81: January 22, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Determine if Two Strings Are Close.
+2. Udemy course on Machine Learning, Support Vector Machine models.
+
+**Link(s) to work**
+1. [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
