@@ -588,3 +588,11 @@
 
 **Link(s) to work**
 1. [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+
+### Day 82: January 25, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Check If All 1's Are at Least Length K Places Away.
+
+**Link(s) to work**
+1. [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
