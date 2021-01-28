@@ -605,3 +605,12 @@
 
 **Link(s) to work**
 1. [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+
+### Day 84: January 28, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Smallest String With A Given Numeric Value.
+2. Completed the Udemy Machine Learning module, Evaluating Classification Models performance. 
+
+**Link(s) to work**
+1. [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
