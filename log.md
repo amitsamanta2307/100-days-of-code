@@ -614,3 +614,11 @@
 
 **Link(s) to work**
 1. [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+
+### Day 85: January 29, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Vertical Order Traversal of a Binary Tree.
+
+**Link(s) to work**
+1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
