@@ -622,3 +622,12 @@
 
 **Link(s) to work**
 1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+
+### Day 86: February 01, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Number of 1 Bits.
+2. Completed the section Hierarchical Clustering, in the Machine Learning Clustering module.
+
+**Link(s) to work**
+1. [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
