@@ -631,3 +631,12 @@
 
 **Link(s) to work**
 1. [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+
+### Day 87: February 02, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Trim a Binary Search Tree.
+2. Completed the section Apriori Association rule, in the Machine Learning Clustering module.
+
+**Link(s) to work**
+1. [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
