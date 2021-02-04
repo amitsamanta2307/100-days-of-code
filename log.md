@@ -649,3 +649,12 @@
 
 **Link(s) to work**
 1. [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+
+### Day 89: February 04, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Longest Harmonious Subsequence.
+2. Completed the section ECLAT Association rule, in the Machine Learning Clustering module.
+
+**Link(s) to work**
+1. [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
