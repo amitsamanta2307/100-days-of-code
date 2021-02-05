@@ -658,3 +658,11 @@
 
 **Link(s) to work**
 1. [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+
+### Day 90: February 05, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Simplify Path.
+
+**Link(s) to work**
+1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
