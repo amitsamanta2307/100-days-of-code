@@ -666,3 +666,11 @@
 
 **Link(s) to work**
 1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+
+### Day 91: February 06, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily January Challenge 2021, Binary Tree Right Side View.
+
+**Link(s) to work**
+1. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
