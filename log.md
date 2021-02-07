@@ -626,7 +626,7 @@
 ### Day 86: February 01, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Number of 1 Bits.
+1. Solved the LeetCode Daily February Challenge 2021, Number of 1 Bits.
 2. Completed the section Hierarchical Clustering, in the Machine Learning Clustering module.
 
 **Link(s) to work**
@@ -635,7 +635,7 @@
 ### Day 87: February 02, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Trim a Binary Search Tree.
+1. Solved the LeetCode Daily February Challenge 2021, Trim a Binary Search Tree.
 2. Completed the section Apriori Association rule, in the Machine Learning Clustering module.
 
 **Link(s) to work**
@@ -644,7 +644,7 @@
 ### Day 88: February 03, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Linked List Cycle.
+1. Solved the LeetCode Daily February Challenge 2021, Linked List Cycle.
 2. Completed the section ECLAT Association rule, in the Machine Learning Clustering module.
 
 **Link(s) to work**
@@ -653,7 +653,7 @@
 ### Day 89: February 04, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Longest Harmonious Subsequence.
+1. Solved the LeetCode Daily February Challenge 2021, Longest Harmonious Subsequence.
 2. Completed the section ECLAT Association rule, in the Machine Learning Clustering module.
 
 **Link(s) to work**
@@ -662,7 +662,7 @@
 ### Day 90: February 05, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Simplify Path.
+1. Solved the LeetCode Daily February Challenge 2021, Simplify Path.
 
 **Link(s) to work**
 1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
@@ -670,7 +670,15 @@
 ### Day 91: February 06, 2021
 
 **Today's Progress**:
-1. Solved the LeetCode Daily January Challenge 2021, Binary Tree Right Side View.
+1. Solved the LeetCode Daily February Challenge 2021, Binary Tree Right Side View.
 
 **Link(s) to work**
 1. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+### Day 92: February 07, 2021
+
+**Today's Progress**:
+1. Solved the LeetCode Daily February Challenge 2021, Shortest Distance to a Character.
+
+**Link(s) to work**
+1. [821. Shortest Distance to a Character](https://leetcode.com/problems/binary-tree-right-side-view/)
