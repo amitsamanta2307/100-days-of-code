@@ -22,4 +22,16 @@
 * [Interactive Coding Exercise - Day 2.2 BMI Calculator](https://replit.com/@asamanta237/day-2-2-exercise)
 * [Interactive Coding Exercise - Day 2.3 Life in Weeks](https://repl.it/@asamanta237/day-2-3-exercise)
 * [Tip Calculator Start](https://repl.it/@asamanta237/tip-calculator-start)
-* [Tip Calculator Completed Code](https://repl.it/@asamanta237/tip-calculator-end)
+
+
+## Day 3 - Control Flow and Logical Operators
+[July 9, 2021]
+
+* [Day 3 - Project Goal](https://treasure-island-end.appbrewery.repl.run)
+* [Interactive Coding Exercise - Day 3.1 Odd or Even](https://repl.it/@asamanta237/day-3-1-exercise)
+* [Interactive Coding Exercise - Day 3.2 BMI Calculator 2.0](https://repl.it/@asamanta237/day-3-2-exercise)
+* [Interactive Coding Exercise - Day 3.3 Leap Year](https://repl.it/@asamanta237/day-3-3-exercise)
+* [Interactive Coding Exercise - Day 3.4 Pizza Order](https://repl.it/@asamanta237/day-3-4-exercise)
+* [Interactive Coding Exercise - Day 3.5 Love Calculator](https://repl.it/@asamanta237/day-3-5-exercise)
+* [Treasure Island Starting Code](https://repl.it/@asamanta237/treasure-island-start)
+* [Treasure Island Completed Code](https://repl.it/@asamanta237/treasure-island-end)
