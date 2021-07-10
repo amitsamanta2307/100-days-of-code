@@ -35,3 +35,14 @@
 * [Interactive Coding Exercise - Day 3.5 Love Calculator](https://repl.it/@asamanta237/day-3-5-exercise)
 * [Treasure Island Starting Code](https://repl.it/@asamanta237/treasure-island-start)
 * [Treasure Island Completed Code](https://repl.it/@asamanta237/treasure-island-end)
+
+# Day 4 - Randomisation and Python Lists
+[July 10, 2021]
+
+* [Day 4 - Project Goal](https://rock-paper-scissors-end.appbrewery.repl.run)
+* [Interactive Coding Exercise - Day 4.1 Heads or Tails](https://repl.it/@asamanta237/day-4-1-exercise)
+* [Interactive Coding Exercise - Day 4.2 Who's Paying](https://repl.it/@asamanta237/day-4-2-exercise)
+* [Interactive Coding Exercise - Day 4.3 Treasure Map](https://repl.it/@asamanta237/day-4-3-exercise)
+* [List of States and Veg](https://repl.it/@asamanta237/day-4-list-practice)
+* [Rock Paper Scissors Starter Code](https://repl.it/@asamanta237/rock-paper-scissors-start)
+* [Rock Paper Scissors Completed Code](https://repl.it/@asamanta237/rock-paper-scissors-end)
