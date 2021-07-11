@@ -27,22 +27,35 @@
 ## Day 3 - Control Flow and Logical Operators
 [July 9, 2021]
 
-* [Day 3 - Project Goal](https://treasure-island-end.appbrewery.repl.run)
+* [Day 3 - Project Goal]()
 * [Interactive Coding Exercise - Day 3.1 Odd or Even](https://repl.it/@asamanta237/day-3-1-exercise)
 * [Interactive Coding Exercise - Day 3.2 BMI Calculator 2.0](https://repl.it/@asamanta237/day-3-2-exercise)
 * [Interactive Coding Exercise - Day 3.3 Leap Year](https://repl.it/@asamanta237/day-3-3-exercise)
 * [Interactive Coding Exercise - Day 3.4 Pizza Order](https://repl.it/@asamanta237/day-3-4-exercise)
 * [Interactive Coding Exercise - Day 3.5 Love Calculator](https://repl.it/@asamanta237/day-3-5-exercise)
 * [Treasure Island Starting Code](https://repl.it/@asamanta237/treasure-island-start)
-* [Treasure Island Completed Code](https://repl.it/@asamanta237/treasure-island-end)
 
-# Day 4 - Randomisation and Python Lists
+## Day 4 - Randomisation and Python Lists
 [July 10, 2021]
 
-* [Day 4 - Project Goal](https://rock-paper-scissors-end.appbrewery.repl.run)
+* [Day 4 - Project Goal]()
 * [Interactive Coding Exercise - Day 4.1 Heads or Tails](https://repl.it/@asamanta237/day-4-1-exercise)
 * [Interactive Coding Exercise - Day 4.2 Who's Paying](https://repl.it/@asamanta237/day-4-2-exercise)
 * [Interactive Coding Exercise - Day 4.3 Treasure Map](https://repl.it/@asamanta237/day-4-3-exercise)
 * [List of States and Veg](https://repl.it/@asamanta237/day-4-list-practice)
 * [Rock Paper Scissors Starter Code](https://repl.it/@asamanta237/rock-paper-scissors-start)
 * [Rock Paper Scissors Completed Code](https://repl.it/@asamanta237/rock-paper-scissors-end)
+
+## Day 5 - Python Loops
+[July 10, 2021]
+
+* [Day 5 - Project Goal](https://password-generator-end.appbrewery.repl.run)
+* Fork Your Copy of the [Day 5 Starting Code](https://repl.it/@asamanta237/day-5-start)
+* [Interactive Coding Exercise - Day 5.1 Average Height](https://repl.it/@asamanta237/day-5-1-exercise)
+* [Interactive Coding Exercise - Day 5.2 Highest Score](https://repl.it/@asamanta237/day-5-2-exercise)
+* [Interactive Coding Exercise - Day 5.3 Adding Evens](https://repl.it/@asamanta237/day-5-3-exercise)
+* [Interactive Coding Exercise - Day 5.4 FizzBuzz](https://repl.it/@asamanta237/day-5-4-exercise)
+* [For loop Lesson End](https://repl.it/@asamanta237/day-5-for-loops-end)
+* [Day 5 Ending Code](https://repl.it/@asamanta237/day-5-end)
+* [Password Generator Start](https://repl.it/@asamanta237/password-generator-start)
+* [Password Generator Completed Code](https://repl.it/@asamanta237/password-generator-end) 
