@@ -3,59 +3,61 @@
 ## Day 1 - Working with Variables in Python to Manage Data
 [July 7, 2021]
 
-* [Day 1 - Project Goal]()
+* [Day 1 - Project Goal](https://band-name-generator-end.appbrewery.repl.run)
 * [Day 1 Starting Code](https://replit.com/@asamanta237/day-1-printing-start)
 * [Interactive Coding Exercise - Day 1.1 Printing](https://replit.com/@asamanta237/day-1-1-exercise)
 * [Interactive Coding Exercise - Day 1.2 Debugging](https://replit.com/@asamanta237/day-1-2-exercise)
 * [Interactive Coding Exercise - Day 1.3 Inputs](https://replit.com/@asamanta237/day-1-3-exercise)
 * [Python Variables Start](https://replit.com/@asamanta237/day-1-variables-start)
 * [Interactive Coding Exercise - Day 1.4 Variables](https://replit.com/@asamanta237/day-1-4-exercise)
-* [Band Name Generator Completed Code](https://replit.com/@asamanta237/band-name-generator-start)
+* [Day 1 - Project: Band Name Generator](https://replit.com/@asamanta237/band-name-generator#main.py)
 
 
 ## Day 2 - Understanding Data Types and How to Manipulate Strings
 [July 8, 2021]
 
-* [Day 2 - Project Goal]()
+* [Day 2 - Project Goal](https://tip-calculator-end.appbrewery.repl.run)
 * [Day 2 Starting Code](https://replit.com/@asamanta237/day-2-start)
 * [Interactive Coding Exercise - Day 2.1 Data Types](https://replit.com/@asamanta237/day-2-1-exercise)
 * [Interactive Coding Exercise - Day 2.2 BMI Calculator](https://replit.com/@asamanta237/day-2-2-exercise)
-* [Interactive Coding Exercise - Day 2.3 Life in Weeks](https://repl.it/@asamanta237/day-2-3-exercise)
-* [Tip Calculator Start](https://repl.it/@asamanta237/tip-calculator-start)
+* [Interactive Coding Exercise - Day 2.3 Life in Weeks](https://replit.com/@asamanta237/day-2-3-exercise)
+* [Day 2 - Project: Tip Calculator](https://replit.com/@asamanta237/tip-calculator#main.py)
 
 
 ## Day 3 - Control Flow and Logical Operators
 [July 9, 2021]
 
-* [Day 3 - Project Goal]()
-* [Interactive Coding Exercise - Day 3.1 Odd or Even](https://repl.it/@asamanta237/day-3-1-exercise)
-* [Interactive Coding Exercise - Day 3.2 BMI Calculator 2.0](https://repl.it/@asamanta237/day-3-2-exercise)
-* [Interactive Coding Exercise - Day 3.3 Leap Year](https://repl.it/@asamanta237/day-3-3-exercise)
-* [Interactive Coding Exercise - Day 3.4 Pizza Order](https://repl.it/@asamanta237/day-3-4-exercise)
-* [Interactive Coding Exercise - Day 3.5 Love Calculator](https://repl.it/@asamanta237/day-3-5-exercise)
-* [Treasure Island Starting Code](https://repl.it/@asamanta237/treasure-island-start)
+* [Day 3 - Project Goal](https://treasure-island-end.appbrewery.repl.run)
+* [Interactive Coding Exercise - Day 3.1 Odd or Even](https://replit.com/@asamanta237/day-3-1-exercise)
+* [Interactive Coding Exercise - Day 3.2 BMI Calculator 2.0](https://replit.com/@asamanta237/day-3-2-exercise)
+* [Interactive Coding Exercise - Day 3.3 Leap Year](https://replit.com/@asamanta237/day-3-3-exercise)
+* [Interactive Coding Exercise - Day 3.4 Pizza Order](https://replit.com/@asamanta237/day-3-4-exercise)
+* [Interactive Coding Exercise - Day 3.5 Love Calculator](https://replit.com/@asamanta237/day-3-5-exercise)
+* [Day 3 - Project: Treasure Island](https://replit.com/@asamanta237/treasure-island)
 
 ## Day 4 - Randomisation and Python Lists
 [July 10, 2021]
 
-* [Day 4 - Project Goal]()
-* [Interactive Coding Exercise - Day 4.1 Heads or Tails](https://repl.it/@asamanta237/day-4-1-exercise)
-* [Interactive Coding Exercise - Day 4.2 Who's Paying](https://repl.it/@asamanta237/day-4-2-exercise)
-* [Interactive Coding Exercise - Day 4.3 Treasure Map](https://repl.it/@asamanta237/day-4-3-exercise)
-* [List of States and Veg](https://repl.it/@asamanta237/day-4-list-practice)
-* [Rock Paper Scissors Starter Code](https://repl.it/@asamanta237/rock-paper-scissors-start)
-* [Rock Paper Scissors Completed Code](https://repl.it/@asamanta237/rock-paper-scissors-end)
+* [Day 4 - Project Goal](https://rock-paper-scissors-end.appbrewery.repl.run)
+* [Interactive Coding Exercise - Day 4.1 Heads or Tails](https://replit.com/@asamanta237/day-4-1-exercise)
+* [Interactive Coding Exercise - Day 4.2 Who's Paying](https://replit.com/@asamanta237/day-4-2-exercise)
+* [Interactive Coding Exercise - Day 4.3 Treasure Map](https://replit.com/@asamanta237/day-4-3-exercise)
+* [Day 4 - Project: Rock Paper Scissors](https://replit.com/@asamanta237/rock-paper-scissors)
 
 ## Day 5 - Python Loops
-[July 10, 2021]
+[July 11, 2021]
 
 * [Day 5 - Project Goal](https://password-generator-end.appbrewery.repl.run)
-* Fork Your Copy of the [Day 5 Starting Code](https://repl.it/@asamanta237/day-5-start)
-* [Interactive Coding Exercise - Day 5.1 Average Height](https://repl.it/@asamanta237/day-5-1-exercise)
-* [Interactive Coding Exercise - Day 5.2 Highest Score](https://repl.it/@asamanta237/day-5-2-exercise)
-* [Interactive Coding Exercise - Day 5.3 Adding Evens](https://repl.it/@asamanta237/day-5-3-exercise)
-* [Interactive Coding Exercise - Day 5.4 FizzBuzz](https://repl.it/@asamanta237/day-5-4-exercise)
-* [For loop Lesson End](https://repl.it/@asamanta237/day-5-for-loops-end)
-* [Day 5 Ending Code](https://repl.it/@asamanta237/day-5-end)
-* [Password Generator Start](https://repl.it/@asamanta237/password-generator-start)
-* [Password Generator Completed Code](https://repl.it/@asamanta237/password-generator-end) 
+* [Interactive Coding Exercise - Day 5.1 Average Height](https://replit.com/@asamanta237/day-5-1-exercise)
+* [Interactive Coding Exercise - Day 5.2 Highest Score](https://replit.com/@asamanta237/day-5-2-exercise)
+* [Interactive Coding Exercise - Day 5.3 Adding Evens](https://replit.com/@asamanta237/day-5-3-exercise)
+* [Interactive Coding Exercise - Day 5.4 FizzBuzz](https://replit.com/@asamanta237/day-5-4-exercise)
+* [Day 5 - Project: Password Generator](https://replit.com/@asamanta237/password-generator)
+
+## Day 6 - Python Functions & Karel
+[July 12, 2021]
+
+* [Built-in Python Functions](https://docs.python.org/3/library/functions.html)
+* [Day 6 Starting Code](https://replit.com/@asamanta237/day-6-start)
+* [Reeborgs World Start](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
+* [Reeborgs World Hurdles Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
