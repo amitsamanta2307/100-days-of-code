@@ -71,3 +71,15 @@
 * [Challenge 3 Starting Code](https://replit.com/@asamanta237/Day-7-Hangman-3-Start#main.py)
 * [Challenge 4 Starting Code](https://replit.com/@asamanta237/Day-7-Hangman-4-Start#main.py)
 * [Challenge 5 Starting Code](https://replit.com/@asamanta237/Day-7-Hangman-5-Start#main.py)
+
+## Day 8 - Function Parameters & Caesar Cipher
+[July 14, 2021]
+
+* [Day 8 - Project Goal](https://repl.it/@appbrewery/caesar-cipher-completed)
+* [Day 8 Starting Code](https://replit.com/@asamanta237/day-8-start#main.py)
+* [Interactive Coding Exercise - Day 8.1 Area Calculation](https://replit.com/@asamanta237/day-8-1-exercise#main.py)
+* [Interactive Coding Exercise - Day 8.2 Prime Number Checker](https://replit.com/@asamanta237/day-8-2-exercise#main.py)
+* [Caesar Cipher 1](https://replit.com/@asamanta237/caesar-cipher-1-start#main.py)
+* [Caesar Cipher 2](https://replit.com/@asamanta237/caesar-cipher-2-start#main.py)
+* [Caesar Cipher 3](https://replit.com/@asamanta237/caesar-cipher-3-start#main.py)
+* [Caesar Cipher 4](https://replit.com/@asamanta237/caesar-cipher-4-start#main.py)
