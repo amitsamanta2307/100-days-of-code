@@ -83,3 +83,12 @@
 * [Caesar Cipher 2](https://replit.com/@asamanta237/caesar-cipher-2-start#main.py)
 * [Caesar Cipher 3](https://replit.com/@asamanta237/caesar-cipher-3-start#main.py)
 * [Caesar Cipher 4](https://replit.com/@asamanta237/caesar-cipher-4-start#main.py)
+
+## Day 9 - Dictionaries, Nesting and the Secret Auction
+[July 15, 2021]
+
+* [Day 9 - Project Goal](https://blind-auction-completed.appbrewery.repl.run)
+* [Day 9 Starting Code](https://replit.com/@asamanta237/day-9-start#main.py)
+* [Interactive Coding Exercise - Day 9.1 Grading Program](https://replit.com/@asamanta237/day-9-1-exercise#main.py)
+* [Interactive Coding Exercise - Day 9.2 Dictionary in List](https://replit.com/@asamanta237/day-9-2-exercise#main.py)
+* [Secret Auction Starting Code](https://replit.com/@asamanta237/blind-auction-start#main.py)
